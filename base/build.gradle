@@ -19,7 +19,7 @@ android {
 
 dependencies {
     api 'com.android.support:appcompat-v7:28.+'
-    api 'com.android.support.constraint:constraint-layout:1.0.2'
+    api 'com.android.support.constraint:constraint-layout:2.0.4'
     api 'com.android.support:design:28.+'
     application project(':app')
     feature project(':feature')
